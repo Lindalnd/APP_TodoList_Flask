@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="tambah_task">Tambah task</string>
+    <string name="masukkan_judul">Masukkan judul</string>
+    <string name="masukkan_deskripsi">Masukkan deskripsi</string>
+    <string name="status_ketuntasan">Status Ketuntasan</string>
+    <string name="tuntas">Tuntas</string>
+    <string name="belum_tuntas">Belum Tuntas</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit">Edit</string>
+    <string name="tgl">25 Agust 2024</string>
+    <string name="kompetensi">undangan</string>
+    <string name="deskripsi">hadir undangan</string>
+    <string name="ubah">Ubah</string>
+    <string name="hapus">Hapus</string>
+</resources>
+
